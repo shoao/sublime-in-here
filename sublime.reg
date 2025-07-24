@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\Sublime In here]
+@="Sublime In here"
+"Icon"="C:\\Program Files\\Sublime Text\\sublime_text.exe"
+
+[HKEY_CLASSES_ROOT\*\shell\Sublime In here\command]
+@="C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python313\\pythonw.exe \"C:\\Users\\Administrator\\Desktop\\open-sublime\\openSublime.pyw\" \"%1\""
+
+[HKEY_CLASSES_ROOT\Directory\shell\Sublime In here]
+@="Sublime In here"
+"Icon"="C:\\Program Files\\Sublime Text\\sublime_text.exe"
+
+[HKEY_CLASSES_ROOT\Directory\shell\Sublime In here\command]
+@="C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python313\\pythonw.exe \"C:\\Users\\Administrator\\Desktop\\open-sublime\\openSublime.pyw\" \"%1\""
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Sublime In here]
+@="Sublime In here"
+"Icon"="C:\\Program Files\\Sublime Text\\sublime_text.exe"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Sublime In here\command]
+@="C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python313\\pythonw.exe \"C:\\Users\\Administrator\\Desktop\\open-sublime\\openSublime.pyw\" \"%V\""
