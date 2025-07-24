@@ -2,7 +2,7 @@
 
 Abre o **Sublime Text** diretamente na pasta clicada pelo menu do botão direito no Windows.
 
-![Exemplo do menu de contexto](img.png)
+![Exemplo do menu de contexto](img.PNG)
 
 ## Requisitos
 
